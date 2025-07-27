@@ -53,7 +53,6 @@ git clone https://github.com/jadesolaa/My-portfolio.git
 cd My-portfolio
 npm install
 npm run dev   # For Vite setup
-# or
 npm start     # For CRA setup
 
 
