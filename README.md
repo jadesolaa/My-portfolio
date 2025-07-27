@@ -43,4 +43,17 @@ My Philosophy
 My mission is to create human-centered solutions that are both beautiful and functional.”
 
 
+Getting Started
+Clone and run locally:
+
+bash
+Copy
+Edit
+git clone https://github.com/jadesolaa/My-portfolio.git
+cd My-portfolio
+npm install
+npm run dev   # For Vite setup
+# or
+npm start     # For CRA setup
+
 
