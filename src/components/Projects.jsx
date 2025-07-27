@@ -5,7 +5,7 @@ const projects = [
   {
     id: 1,
     title: "App Design & Development",
-    image: "/assets/app_design.jpg",
+    image: "/assets/app_design.png",
     description: "Projects I’ve both designed and built — like the F1 Race Manager and PH-DVault.",
     skills: ["Flutter", "Firebase", "Supabase", "MongoDB", "UI/UX"],
     route: "/projects/app-design",
@@ -23,7 +23,7 @@ const projects = [
   {
     id: 3,
     title: "Content & Campaign Tools",
-    image: "/assets/content_tools.jpg",
+    image: "/assets/content_tools.png",
     description: "Growth strategy for Jiffy Jollof — from post planning to insights.",
     skills: ["Content Strategy", "Instagram Analytics", "Branding", "Scheduling", "Performance"],
     route: "/projects/content-campaigns",
@@ -32,7 +32,7 @@ const projects = [
   {
     id: 4,
     title: "Wellness & Journaling Products",
-    image: "/assets/wellness_journal.jpg",
+    image: "/assets/wellness_journal.png",
     description: "Mindfulness tools like the ‘Feeling-Jaded’ journal, designed end-to-end.",
     skills: ["Canva", "Wellness UX", "Branding", "Typography", "UI Layouts"],
     route: "/projects/wellness-journal",
@@ -41,7 +41,7 @@ const projects = [
   {
     id: 5,
     title: "Interactive Web Apps",
-    image: "/assets/interactive_web.jpg",
+    image: "/assets/interactive_web.png",
     description: "Side projects for experimentation — hotel apps, age calculators, etc.",
     skills: ["React", "Tailwind CSS", "Form UX", "JavaScript", "Responsive Design"],
     route: "/projects/web-apps",
